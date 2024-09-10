@@ -1,4 +1,5 @@
-[INDUSTRY INSIGHTS.xlsx](https://github.com/user-attachments/files/16923091/INDUSTRY.INSIGHTS.xlsx)
+[INDUSTRY INSIGHTS DASHBOARD.xlsx](https://github.com/user-attachments/files/16941948/INDUSTRY.INSIGHTS.DASHBOARD.xlsx)
+
 The "Industry Insights" dashboard 📊 was generated using Microsoft Excel. The dataset was carefully observed and cleaned before drawing insights.
 
 The Industry Insights dashboard Answered the following questions:
